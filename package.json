@@ -10,7 +10,7 @@
     "nodemon": "^3.1.9"
   },
   "scripts": {
-  "start": "node index.js",
+  "start": "node index.js"
   
 }
 }
